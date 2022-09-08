@@ -1,8 +1,8 @@
 {
     "main": "dist/index.js",
-    "module": "dist/assets/index.94f5efd5.js",
-    "name": "wbc-ui3-vite-vue3-v0",
-    "private": true,
+    "module": "dist/assets/index.7592612b.js",
+    "name": "@wissemb11/wbc-ui3-vite-vue3-v0",
+    "private": false,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
@@ -17,5 +17,16 @@
     },
     "dependencies": {
         "vue": "^3.2.39"
-    }
+    },
+    "description": "This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wissemb11/wbc-ui3-vite-vue3-v0.git"
+    },
+    "author": "wissem boughamoura",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wissemb11/wbc-ui3-vite-vue3-v0/issues"
+    },
+    "homepage": "https://github.com/wissemb11/wbc-ui3-vite-vue3-v0#readme"
 }
