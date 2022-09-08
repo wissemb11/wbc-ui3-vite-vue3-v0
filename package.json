@@ -1,9 +1,7 @@
 {
-    "main": "dist/index.js",
-    "module": "dist/assets/index.7592612b.js",
-    "name": "@wissemb11/wbc-ui3-vite-vue3-v0",
+    "name": "wbc-ui3-vite-vue3-v2",
     "private": false,
-    "version": "0.0.1",
+    "version": "0.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite",
