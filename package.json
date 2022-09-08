@@ -1,0 +1,21 @@
+{
+    "main": "dist/index.js",
+    "module": "dist/assets/index.94f5efd5.js",
+    "name": "wbc-ui3-vite-vue3-v0",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^3.0.3",
+        "prettier": "2.7.1",
+        "vite": "^3.0.7"
+    },
+    "dependencies": {
+        "vue": "^3.2.39"
+    }
+}
